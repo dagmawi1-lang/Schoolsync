@@ -1,0 +1,11 @@
+{
+  "schoolsync-settings": {
+    "notifications": true,
+    "announcements": true,
+    "events": true,
+    "scholarships": true,
+    "opportunities": true,
+    "theme": "dark"
+  },
+  "schoolsync-notifications": []
+}
